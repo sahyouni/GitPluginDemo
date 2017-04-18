@@ -14,6 +14,8 @@ namespace GitPluginDemo
             Console.Write("Hello2");
             Console.Write(false);
             //test
+
+            //test2
         }
     }
 }
