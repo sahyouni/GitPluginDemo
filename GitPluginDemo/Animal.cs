@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace GitPluginDemo
 {
-    class Program
+    class Animal
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World");
-        }
     }
 }
